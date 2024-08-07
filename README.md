@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/geEe6UTMyITbPybdo1/giphy.gif" height='100px'></img>
   <h1>Hi 👋, I'm Alyona Korenkovich 🍃</h1>
   <h3>I'm a passionate full-stack developer based in Saint-Petersburg, Russia 🌍</h3>
-  👨‍💻 I'm currently working on honing my skills and seeking opportunities in the frontend development field
+  👨‍💻 Currently working at Avito as frontend dev
 </div>
 
 <div class='about_me'>
@@ -72,18 +72,3 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
 </div>
-
-<!--
-**alyona-korenkovich/alyona-korenkovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
